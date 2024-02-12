@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Reading Stuff</title>
+    <link>https://janscheible.github.io/</link>
+    <description>Interesting stuff to read (okay and sometimes also to watch or listen ;-) found on the Internet.</description>
+    <item>
+      <title>DevOps: Don't destroy silos, transform them</title>
+      <link>https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform</link>
+      <description>"Destroying silos" is a clumsy solution to team isolation</description>
+    </item>
+  </channel>
+</rss>
