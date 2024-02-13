@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-  <channel>
-    <title>Reading Stuff</title>
-    <link>https://janscheible.github.io/</link>
-    <description>Interesting stuff to read (okay and sometimes also to watch or listen ;-) found on the Internet.</description>
-    <item>
-      <title>DevOps: Don't destroy silos, transform them</title>
-      <link>https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform</link>
-      <description>"Destroying silos" is a clumsy solution to team isolation.</description>
-    </item>
-    <item>
-      <title>The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)</title>
-      <link>https://tonsky.me/blog/unicode/</link>
-      <description>Twenty years after Joel Spolsky's article a lot changed but UTF still has it's surprises.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Reading Stuff</title>
+		<link>https://janscheible.github.io/</link>
+		<description>Interesting stuff to read (okay and sometimes also to watch or listen ;-) found on the Internet.</description>
+		<item>
+			<title>DevOps: Don't destroy silos, transform them</title>
+			<link>https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform</link>
+			<description>"Destroying silos" is a clumsy solution to team isolation.</description>
+		</item>
+		<item>
+			<title>The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)</title>
+			<link>https://tonsky.me/blog/unicode/</link>
+			<description>Twenty years after Joel Spolsky's article a lot changed but UTF still has it's surprises.</description>
+		</item>
+		<item>
+			<title>Why are process gates the hellish spawn of evil you should avoid at all cost?</title>
+			<link>https://www.rubick.com/process-gates-of-hell/</link>
+			<description>A common leadership mistake is process gates. What are process gates?</description>
+		</item>
+		<item>
+			<title>(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup</title>
+			<link>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</link>
+			<description>This post lists some of the major decisions made.</description>
+		</item>
+	</channel>
 </rss>
