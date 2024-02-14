@@ -5,21 +5,25 @@
 		<link>https://janscheible.github.io/</link>
 		<description>Interesting stuff to read (okay and sometimes also to watch or listen ;-) found on the Internet.</description>
 		<item>
+			<guid isPermaLink="false">7dd247c9-7abc-43a8-8998-fed38b063371</guid>
 			<title>DevOps: Don't destroy silos, transform them</title>
 			<link>https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform</link>
 			<description>"Destroying silos" is a clumsy solution to team isolation.</description>
 		</item>
 		<item>
+			<guid isPermaLink="false">7a3c7cba-656f-44cc-99f4-cd31cfd6bea4</guid>
 			<title>The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)</title>
 			<link>https://tonsky.me/blog/unicode/</link>
 			<description>Twenty years after Joel Spolsky's article a lot changed but UTF still has it's surprises.</description>
 		</item>
 		<item>
+			<guid isPermaLink="false">918fb0f3-34fb-4dd4-8825-30bd98bfa7cd</guid>
 			<title>Why are process gates the hellish spawn of evil you should avoid at all cost?</title>
 			<link>https://www.rubick.com/process-gates-of-hell/</link>
 			<description>A common leadership mistake is process gates. What are process gates?</description>
 		</item>
 		<item>
+			<guid isPermaLink="false">776b1cce-2a4a-4a9b-a31a-3ed1aa09a4d2</guid>
 			<title>(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup</title>
 			<link>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</link>
 			<description>This post lists some of the major decisions made.</description>
