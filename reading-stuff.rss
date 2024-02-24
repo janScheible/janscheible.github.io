@@ -29,22 +29,34 @@
 			<description>This post lists some of the major decisions made.</description>
 		</item>
 		<item>
-		    <guid isPermaLink="false">4eb936be-5ed5-4f3f-960b-d90f9030d295</guid>
-		    <title>Leadership Language Lessons from Star Trek</title>
-		    <link>https://benjiweber.co.uk/blog/2021/03/14/leadership-language-lessons-from-star-trek/</link>
-		    <description>Picard didn't order people about. He didn't assume he knew best. He wasn't seeking glory. In his words: The Enterprise was a vehicle for his crew to better themselves and society. What a brilliant metaphor for organisations to aspire to.</description>
+			<guid isPermaLink="false">4eb936be-5ed5-4f3f-960b-d90f9030d295</guid>
+			<title>Leadership Language Lessons from Star Trek</title>
+			<link>https://benjiweber.co.uk/blog/2021/03/14/leadership-language-lessons-from-star-trek/</link>
+			<description>Picard didn't order people about. He didn't assume he knew best. He wasn't seeking glory. In his words: The Enterprise was a vehicle for his crew to better themselves and society. What a brilliant metaphor for organisations to aspire to.</description>
 		</item>
 		<item>
-		    <guid isPermaLink="false">9871ab60-2382-4a8d-8241-b50613b4fc16</guid>
-		    <title>Engineering’s role in Mergers &amp; Acquisitions.</title>
-		    <link>https://lethain.com/engineering-in-mergers-and-acquisition/</link>
-		    <description>I managed the engineering team at Digg as we ran out of money, and were eventually acquired. It was an eye opening experience, and I learned a great deal about the reality and the optics of selling a company, particularly one with no money and a shrinking user base. Humbling was just the beginning. Since then, I’ve had the opportunity to evaluate a number of companies from the other side of the Mergers and Acquisitions (M&amp;A) table.</description>
+			<guid isPermaLink="false">9871ab60-2382-4a8d-8241-b50613b4fc16</guid>
+			<title>Engineering’s role in Mergers &amp; Acquisitions.</title>
+			<link>https://lethain.com/engineering-in-mergers-and-acquisition/</link>
+			<description>I managed the engineering team at Digg as we ran out of money, and were eventually acquired. It was an eye opening experience, and I learned a great deal about the reality and the optics of selling a company, particularly one with no money and a shrinking user base. Humbling was just the beginning. Since then, I’ve had the opportunity to evaluate a number of companies from the other side of the Mergers and Acquisitions (M&amp;A) table.</description>
 		</item>
 		<item>
-		    <guid isPermaLink="false">540d3bde-5ac0-40b6-af18-0c9209af57d6</guid>
-		    <title>Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY</title>
-		    <link>https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/</link>
-		    <description>How hyped technologies are promoted.</description>
+			<guid isPermaLink="false">540d3bde-5ac0-40b6-af18-0c9209af57d6</guid>
+			<title>Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY</title>
+			<link>https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/</link>
+			<description>How hyped technologies are promoted.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">96ac8349-faea-48ca-bed2-e6c53c0e6564</guid>
+			<title>After 14 years in the industry, I still find programming difficult</title>
+			<link>https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/</link>
+			<description>Programming has many aspects.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">e9a71ddf-eb9a-41c0-bf1b-cc508306aeba</guid>
+			<title>My Notes on GitLab Postgres Schema Design</title>
+			<link>https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/</link>
+			<description>Notes on GitLab Postgres Schema Design.</description>
 		</item>
 	</channel>
 </rss>
