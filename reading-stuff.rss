@@ -58,5 +58,71 @@
 			<link>https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/</link>
 			<description>Notes on GitLab Postgres Schema Design.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">b1669c44-a91d-4f8d-9c6b-00e0b2c31049</guid>
+			<title>ARCHITECTURE.md</title>
+			<link>https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html</link>
+			<description>If you maintain an open-source project, I strongly encourage you to add an ARCHITECTURE document next to README and CONTRIBUTING.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">ec6d2ba3-399f-4a3a-8265-8f9013beb63b</guid>
+			<title>My favourite animation trick: exponential smoothing</title>
+			<link>https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html</link>
+			<description>There’s a certain simple animation thing that I’ve been using almost since I’ve ever started doing anything related to graphics.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">d2b3f6d1-db06-4f2d-8524-60423b5dd7b5</guid>
+			<title>Breaking Down Tasks</title>
+			<link>https://jacobian.org/2024/mar/11/breaking-down-tasks/</link>
+			<description>Diging into what’s going on when I break down a project into constitute tasks.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">dd80d5ae-6aa8-4cf3-886a-2d0ef76646b2</guid>
+			<title>Thanks FedEx, This is Why we Keep Getting Phished</title>
+			<link>https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/</link>
+			<description>Here we are in the era of burgeoning AI-driven scams that are becoming increasingly hard for humans to identify, and FedEx is like "here, hold my beer".</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">72d7f74a-a533-4cb4-b532-40999683bc15</guid>
+			<title>The High-Risk Refactoring</title>
+			<link>https://webup.org/blog/the-high-risk-refactoring/</link>
+			<description>Code refactoring may cost a fortune if not done right.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">028542ab-dd2f-4c48-9240-cf8f8087f43a</guid>
+			<title>Alerting: Expectation vs Reality</title>
+			<link>https://www.sheshbabu.com/posts/alerting-expectation-vs-reality/</link>
+			<description>One big consequence of dealing with alerts everyday is that your team gets numb to them.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">6c880458-2d71-4001-bf30-7bab30a494c1</guid>
+			<title>Forming and Evolving Teams with TeamOS</title>
+			<link>https://serialized.net/2021/06/teamos/</link>
+			<description>We called it “TeamOS” – the set of processes and practices used to measure results, get work done, and to change process over time.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">a33e9c3b-b067-4a80-a25d-bc93ef6b1c2e</guid>
+			<title>Linux Crisis Tools</title>
+			<link>https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html</link>
+			<description>When you have an outage caused by a performance issue, you don't want to lose precious time just to install the tools needed to diagnose it.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">78592a61-b460-468d-951d-f841419cd715</guid>
+			<title>Mario meets Pareto</title>
+			<link>https://www.mayerowitz.io/blog/mario-meets-pareto</link>
+			<description>In situations where your utility function is unknown or uncertain the Pareto front helps you eliminate objectively all the sub-optimal options.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">89fd930b-5b77-4f3a-8ed8-79f846cdeaad</guid>
+			<title>Postgres Locks Explorer</title>
+			<link>https://leontrolski.github.io/pglockpy.html</link>
+			<description>Different kind of Postgres locks and their relation explorable.</description>
+		</item>	
+		<item>
+			<guid isPermaLink="false">03e3412f-76ea-4e5d-9f9e-9cca54f14969</guid>
+			<title>The UX of UUIDs</title>
+			<link>https://unkey.dev/blog/uuid-ux</link>
+			<description>While using a standard UUID will satisfy all your security concerns, there’s a lot we can improve for our users.</description>
+		</item>
 	</channel>
 </rss>
