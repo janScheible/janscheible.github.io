@@ -124,5 +124,11 @@
 			<link>https://unkey.dev/blog/uuid-ux</link>
 			<description>While using a standard UUID will satisfy all your security concerns, there’s a lot we can improve for our users.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">7b632926-55c9-4422-a927-48f3621b42df</guid>
+			<title>A new time zone for the moon</title>
+			<link>https://www.space.com/white-house-nasa-time-zone-moon</link>
+			<description>White House directs NASA to create a new time zone for the moon.</description>
+		</item>
 	</channel>
 </rss>
