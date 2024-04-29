@@ -130,5 +130,11 @@
 			<link>https://www.space.com/white-house-nasa-time-zone-moon</link>
 			<description>White House directs NASA to create a new time zone for the moon.</description>
 		</item>
+		<item>
+		    <guid isPermaLink="false">e10a6a01-7754-4f04-be25-d7263a072a44</guid>
+		    <title>How Prometheus Revolutionized Monitoring at SoundCloud - Björn Rabenstein - GOTO 2017</title>
+		    <link>https://www.youtube.com/watch?v=hhZrOHKIxLw</link>
+		    <description>Monitoring and alerting with prometheus at SoundCloud.</description>
+		</item>
 	</channel>
 </rss>
