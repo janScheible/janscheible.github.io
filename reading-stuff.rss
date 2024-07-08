@@ -131,10 +131,22 @@
 			<description>White House directs NASA to create a new time zone for the moon.</description>
 		</item>
 		<item>
-		    <guid isPermaLink="false">e10a6a01-7754-4f04-be25-d7263a072a44</guid>
-		    <title>How Prometheus Revolutionized Monitoring at SoundCloud - Björn Rabenstein - GOTO 2017</title>
-		    <link>https://www.youtube.com/watch?v=hhZrOHKIxLw</link>
-		    <description>Monitoring and alerting with prometheus at SoundCloud.</description>
+			<guid isPermaLink="false">e10a6a01-7754-4f04-be25-d7263a072a44</guid>
+			<title>How Prometheus Revolutionized Monitoring at SoundCloud - Björn Rabenstein - GOTO 2017</title>
+			<link>https://www.youtube.com/watch?v=hhZrOHKIxLw</link>
+			<description>Monitoring and alerting with prometheus at SoundCloud.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">2c7c24a1-7986-4a03-93d9-dd704e672f0b</guid>
+			<title>Ten Years and Counting: My Affair with Microservices</title>
+			<link>https://blog.allegro.tech/2024/04/ten-years-microservices.html</link>
+			<description>Allegro's transition to Microservices.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">568beff7-9812-4a62-a724-22a5ef24e549</guid>
+			<title>Do you *really* need to store all that telemetry?</title>
+			<link>https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/</link>
+			<description>The perceived need of storing all possible telemetry data.</description>
 		</item>
 	</channel>
 </rss>
