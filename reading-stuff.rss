@@ -148,5 +148,23 @@
 			<link>https://mattklein123.dev/2024/04/10/do-you-need-to-store-that-telemetry/</link>
 			<description>The perceived need of storing all possible telemetry data.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">50436bd2-986f-4849-9519-daa1fbf4da10</guid>
+			<title>Beware! Anti-patterns in Event-Driven Architecture</title>
+			<link>https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/</link>
+			<description>Event-driven architecture has patterns and common practices that are solutions for various problems. Here are some patterns and why the might become anti-patterns in a given context.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">2634924c-9860-4c9b-b491-7c4b30f36b86</guid>
+			<title>You'll regret using natural keys</title>
+			<link>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</link>
+			<description>Natural keys might sound like the obvious solution in the first place.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">445adac7-f91f-446d-905c-202e171f2347</guid>
+			<title>Three Laws of Software Complexity (or: why software engineers are always grumpy)</title>
+			<link>https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html</link>
+			<description>The author posit that most software engineers are destined to wallow in unnecessary complexity due to three fundamental laws.</description>
+		</item>
 	</channel>
 </rss>
