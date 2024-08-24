@@ -166,5 +166,23 @@
 			<link>https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html</link>
 			<description>The author posit that most software engineers are destined to wallow in unnecessary complexity due to three fundamental laws.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">c6038f1e-d227-4900-9a12-1586bf5abf50</guid>
+			<title>Laws of Software Evolution</title>
+			<link>https://two-wrongs.com/laws-of-software-evolution</link>
+			<description>The author's thoughts about Lehman’s Laws of Software Evolution.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">f077ffa9-5903-48fc-a707-b3c141af9b0b</guid>
+			<title>The only two log levels you need are INFO and ERROR</title>
+			<link>https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/</link>
+			<description>To get the right amount of logs is hard.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">220562f5-5195-458b-aba9-739db41c5d8a</guid>
+			<title>Identifiers are better off without meaning</title>
+			<link>https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html</link>
+			<description>Again an article about the pitfalls of natural identifiers.</description>
+		</item>
 	</channel>
 </rss>
