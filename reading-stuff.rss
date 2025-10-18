@@ -184,5 +184,29 @@
 			<link>https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html</link>
 			<description>Again an article about the pitfalls of natural identifiers.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">0596a73d-42cd-448b-8420-ceeb8bb8de15</guid>
+			<title>Avoiding the soft delete anti-pattern</title>
+			<link>https://www.cultured.systems/2024/04/24/Soft-delete/</link>
+			<description>Is soft delete really an anti-pattern?</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">6e660fee-246d-4996-bf02-09bf0bda1a69</guid>
+			<title>High-Quality Software Engineering</title>
+			<link>https://www.lurklurk.org/hqse/hqse.html</link>
+			<description>Impressive collection of high-quality software engineering practices.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">2c59777b-8b4a-4086-a7ed-def2e2ba6f2d</guid>
+			<title>Visualizing algorithms for rate limiting</title>
+			<link>https://smudge.ai/blog/ratelimit-algorithms</link>
+			<description>Beautiful visualization of rate limit algorithms.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">498f4509-5517-4176-b55f-296e263409d9</guid>
+			<title>Your data model is your destiny</title>
+			<link>https://notes.mtb.xyz/p/your-data-model-is-your-destiny</link>
+			<description>How your data model constraints your product.</description>
+		</item>
 	</channel>
 </rss>
