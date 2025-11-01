@@ -208,5 +208,23 @@
 			<link>https://notes.mtb.xyz/p/your-data-model-is-your-destiny</link>
 			<description>How your data model constraints your product.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">a3ca712b-30e5-45cb-a23c-237b1c610722</guid>
+			<title>Result is all I need</title>
+			<link>https://rockyj-blogs.web.app/2025/10/25/result-monad.html</link>
+			<description>Thoughts about code organization and orchestration in a functional way.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">944b8e67-d8d5-4fdd-9974-a8d970096c49</guid>
+			<title>Mistakes I see engineers making in their code reviews</title>
+			<link>https://www.seangoedecke.com/good-code-reviews/</link>
+			<description>What makes a good code review process?</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">0d33a3e9-fe6a-46f4-95b1-7a622bf4f671</guid>
+			<title>Java’s Mysterious Interrupt</title>
+			<link>https://carlmastrangelo.com/blog/javas-mysterious-interrupt</link>
+			<description>How Java thread interruption works.</description>
+		</item>
 	</channel>
 </rss>
