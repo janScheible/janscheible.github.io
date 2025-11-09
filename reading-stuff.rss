@@ -226,5 +226,23 @@
 			<link>https://carlmastrangelo.com/blog/javas-mysterious-interrupt</link>
 			<description>How Java thread interruption works.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">57fc882c-ceca-4844-b67b-790948c31472</guid>
+			<title>Mocking is an Anti-Pattern</title>
+			<link>https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/</link>
+			<description>Always be aware that mocking comes with trade-offs</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">83013156-704a-4873-be2f-0f8c3298e6c7</guid>
+			<title>Not Just Scale</title>
+			<link>https://brooker.co.za/blog/2024/06/04/scale.html</link>
+			<description>Scaling systems is always also about scaling organizations and processes</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">5ccc4810-b626-4dd2-88ba-3db12b55acfc</guid>
+			<title>How to avoid messy code</title>
+			<link>https://edmundkirwan.com/general/disorder-correlation.html</link>
+			<description>How to organize code to minimize structural disorder</description>
+		</item>
 	</channel>
 </rss>
