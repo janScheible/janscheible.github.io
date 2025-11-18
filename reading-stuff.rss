@@ -244,5 +244,23 @@
 			<link>https://edmundkirwan.com/general/disorder-correlation.html</link>
 			<description>How to organize code to minimize structural disorder</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">f08628ba-2ac0-4ce0-976f-74764e95d204</guid>
+			<title>On Writing Well</title>
+			<link>https://zodvik.com/posts/on-writing-well/</link>
+			<description>Some practical tips on writing.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">03847356-dd8f-433f-ad7f-f1d62f20dbe2</guid>
+			<title>When did people favor composition over inheritance?</title>
+			<link>https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/</link>
+			<description>Sheds some light on the origin of that rule of thumb.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">5f31d80a-480d-4afe-a5d5-9227c428a461</guid>
+			<title>The Pragmatic Programmer: 20th Anniversary Edition</title>
+			<link>hhttps://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html</link>
+			<description>Detailed look at the 20th Anniversary Edition of this foundational book.</description>
+		</item>
 	</channel>
 </rss>
