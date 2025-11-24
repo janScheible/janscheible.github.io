@@ -262,5 +262,35 @@
 			<link>hhttps://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html</link>
 			<description>Detailed look at the 20th Anniversary Edition of this foundational book.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">53d35a3e-db8a-4191-9bc2-56271cfb0025</guid>
+			<title>Schema changes and the Postgres lock queue</title>
+			<link>https://xata.io/blog/migrations-and-exclusive-locks</link>
+			<description>How schema changes without a maintenance window affect the database.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">fae7b99b-9e8a-467b-b302-2de5e9bc8f38</guid>
+			<title>A Better Way To Code: Documentation Driven Development</title>
+			<link>https://dev.to/this-is-learning/a-better-way-to-code-documentation-driven-development-1kem</link>
+			<description>To not only think about the next smallest possible increment but also about the broader scope of an implementation.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">d66d19dc-5972-4ba7-a060-d54ea5356bd5</guid>
+			<title>Modularizing Spring Boot</title>
+			<link>https://spring.io/blog/2025/10/28/modularizing-spring-boot</link>
+			<description>Real-world example of modularizing an existing codebase.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">1c9a369c-f99d-46f1-be6b-8ffc2d07600d</guid>
+			<title>Making a Small RPG</title>
+			<link>https://jslegenddev.substack.com/p/making-a-small-rpg</link>
+			<description>Detailed writeup on the influences on the game creation process.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">e5e6a745-13f1-4a21-9f78-a09c97c3ab49</guid>
+			<title>Fizz Buzz with Cosines</title>
+			<link>https://susam.net/fizz-buzz-with-cosines.html</link>
+			<description>It is really hard to make it even more complicated than that.</description>
+		</item>
 	</channel>
 </rss>
