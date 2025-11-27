@@ -292,5 +292,23 @@
 			<link>https://susam.net/fizz-buzz-with-cosines.html</link>
 			<description>It is really hard to make it even more complicated than that.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">408bc9cd-cd99-40b7-8432-bca98f43a810</guid>
+			<title>Why Strong Consistency?</title>
+			<link>https://brooker.co.za/blog/2025/11/18/consistency.html</link>
+			<description>Because eventual consistency is hard.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">9618a540-e0cd-4fc8-bc16-12fa8e99f7a4</guid>
+			<title>Fifty Shades of OOP</title>
+			<link>https://lesleylai.info/en/fifty_shades_of_oop/</link>
+			<description>What exactly is Object-Oriented Programming?</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">797542f0-bd2c-4960-bf75-bbd860dfcdf4</guid>
+			<title>Bret Victor: The Future of Programming</title>
+			<link>https://www.youtube.com/watch?v=8pTEmbeENF4</link>
+			<description>A talk about the future, the past and to think outside of the box.</description>
+		</item>
 	</channel>
 </rss>
