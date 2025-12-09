@@ -310,5 +310,23 @@
 			<link>https://www.youtube.com/watch?v=8pTEmbeENF4</link>
 			<description>A talk about the future, the past and to think outside of the box.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">c966cffd-c500-4e02-93ab-3f869a26d17e</guid>
+			<title>Bag of words, have mercy on us</title>
+			<link>https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us</link>
+			<description>Thoughts about an alternative metaphor for large language models.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">fae4f8c6-c974-4b5c-8c15-a413852f58de</guid>
+			<title>Vanilla CSS is all you need</title>
+			<link>https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need</link>
+			<description>The features of modern CSS make a build step unnecessary.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">b477de86-a518-48c5-8036-81cae381e2bb</guid>
+			<title>Duplication Isn't Always an Anti-Pattern</title>
+			<link>https://scribe.rip/@HobokenDays/rethinking-duplication-c1f85f1c0102</link>
+			<description>Sometimes deliberate duplication is okay.</description>
+		</item>
 	</channel>
 </rss>
