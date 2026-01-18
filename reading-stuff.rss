@@ -328,5 +328,23 @@
 			<link>https://scribe.rip/@HobokenDays/rethinking-duplication-c1f85f1c0102</link>
 			<description>Sometimes deliberate duplication is okay.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">db188b76-7109-425b-933b-12e4d6636c36</guid>
+			<title>21 Lessons From 14 Years at Google</title>
+			<link>https://addyosmani.com/blog/21-lessons/</link>
+			<description>Advice on how to achieve results in general and in large organizations in particular.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">cc6ad1de-f0a8-41b8-9380-6bc89f45b56f</guid>
+			<title>Why We've Tried to Replace Developers Every Decade Since 1969</title>
+			<link>https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html</link>
+			<description>About the recurring pattern of software development improvements and their promises.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">24150cb7-c54e-4ae1-9a9c-756e6d85385c</guid>
+			<title> High-level is the goal</title>
+			<link>hhttps://bvisness.me/high-level/</link>
+			<description>High-level does not always mean high in the tech stack.</description>
+		</item>
 	</channel>
 </rss>
