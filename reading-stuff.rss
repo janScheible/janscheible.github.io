@@ -346,5 +346,29 @@
 			<link>https://bvisness.me/high-level/</link>
 			<description>High-level does not necessarily mean high in the tech stack.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">84c3f9ee-33d6-46cc-82af-6787cd3f68e0</guid>
+			<title>Slop Is Not Necessarily The Future</title>
+			<link>https://www.greptile.com/blog/ai-slopware-future</link>
+			<description>Good argument for incentives to produces less code. Less code is definitively better, let's see if it is also readable code.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">f653d78c-e8a6-475e-9bca-84f12a5ad90d</guid>
+			<title>Let the commits tell the story</title>
+			<link>https://chrismaiorana.com/git-commits-tell-the-story/</link>
+			<description>This time an example of commit messages that really tell a story.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">0870ca63-c8b1-49d8-9812-c0614ed0670e</guid>
+			<title>Working software runs locally</title>
+			<link>https://nickmonad.blog/2026/working-software-runs-locally/</link>
+			<description>Being able to run a pieces of software locally is the prerequisite for a fast feedback loop.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">7ac83b71-e90d-4328-8296-c7727c150c23</guid>
+			<title>Why Your Engineering Team Is Slow (It's the Codebase, Not the People)</title>
+			<link>https://piechowski.io/post/codebase-drag-audit/</link>
+			<description>Five signs to look out for to deal with slow development speed.</description>
+		</item>
 	</channel>
 </rss>
