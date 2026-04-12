@@ -370,5 +370,23 @@
 			<link>https://piechowski.io/post/codebase-drag-audit/</link>
 			<description>Five signs to look out for to deal with slow development speed.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">b21c3924-015e-4429-bfc0-eaa0755c779b</guid>
+			<title>A sufficiently detailed spec is code</title>
+			<link>https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</link>
+			<description>Moving all the details from code to the spec might just be moving things around.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">68d4018d-7b02-4b48-8df1-3aa5a8a617f7</guid>
+			<title>Pushing and Pulling: Three Reactivity Algorithms</title>
+			<link>https://jonathan-frere.com/posts/reactivity-algorithms/</link>
+			<description>Abstract explanation of push and pull based reactivity.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">82f55c40-1963-46e2-875d-3d820085c75e</guid>
+			<title>Good software knows when to stop</title>
+			<link>https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop</link>
+			<description>Software benefits from a laser sharp focus, throwing arbitrary features at it might not be a good idea.</description>
+		</item>
 	</channel>
 </rss>
