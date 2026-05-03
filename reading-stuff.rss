@@ -388,5 +388,47 @@
 			<link>https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop</link>
 			<description>Software benefits from a laser sharp focus, throwing arbitrary features at it might not be a good idea.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">fb243bad-e074-45bf-9b21-e6171a3813a8</guid>
+			<title>Martin Fowler - Fragments: April 14</title>
+			<link>https://martinfowler.com/fragments/2026-04-14.html</link>
+			<description>Thoughts about programming, laziness, llms, abstractions and convincing bombs not to detonate.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">c539dae0-ea2c-4497-9062-a86b5f4d63bf</guid>
+			<title>Why I don’t chain everything in JavaScript anymore</title>
+			<link>https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/</link>
+			<description>Chaining fluent API calls is nice but should it always be used?</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">c0a5a32c-884b-4623-861f-3e4ea9108f3a</guid>
+			<title>Modern Frontend Complexity: essential or accidental?</title>
+			<link>https://binaryigor.com/modern-frontend-complexity.html</link>
+			<description>Nice HTMX with Spring Boot example with less complexity.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">ebf1a257-99c1-435f-9ec1-6411a9e122a0</guid>
+			<title>The woes of sanitizing SVGs</title>
+			<link>https://muffin.ink/blog/scratch-svg-sanitization/</link>
+			<description>The unbelievable complexity behind an innocent SVG image in today's browsers.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">6ff340c0-0fba-407e-a39f-7a259310068f</guid>
+			<title>A.I. Should Elevate Your Thinking, Not Replace It</title>
+			<link>https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</link>
+			<description>It might be a good idea not to lose your thinking skills.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">deb96b92-10c6-42cb-9552-f096a61400b3</guid>
+			<title>Laws of Software Engineering </title>
+			<link>https://lawsofsoftwareengineering.com/</link>
+			<description>Nice collection of so called laws of Software Engineering.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">5b84498e-e60d-4983-bebf-e293488472af</guid>
+			<title>Why I Don’t Vibe Code</title>
+			<link>https://jacobharr.is/personal/i-dont-vibe-code</link>
+			<description>Jacob Harris' interesting thoughts about vibe coding.</description>
+		</item>
 	</channel>
 </rss>
