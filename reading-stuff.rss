@@ -420,7 +420,7 @@
 		</item>
 		<item>
 			<guid isPermaLink="false">deb96b92-10c6-42cb-9552-f096a61400b3</guid>
-			<title>Laws of Software Engineering </title>
+			<title>Laws of Software Engineering</title>
 			<link>https://lawsofsoftwareengineering.com/</link>
 			<description>Nice collection of so called laws of Software Engineering.</description>
 		</item>
@@ -429,6 +429,24 @@
 			<title>Why I Don’t Vibe Code</title>
 			<link>https://jacobharr.is/personal/i-dont-vibe-code</link>
 			<description>Jacob Harris' interesting thoughts about vibe coding.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">abd4aa79-95f2-4ec5-a4a9-60968435732d</guid>
+			<title>How Claude Code works in large codebases: Best practices and where to start</title>
+			<link>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</link>
+			<description>Claude also loves hierarchical decomposition of a code.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">d59a1e17-7f2c-499e-ab1b-31e0041f9865</guid>
+			<title>Claude Is Not Your Architect. Stop Letting It Pretend.</title>
+			<link>https://www.hollandtech.net/claude-is-not-your-architect/</link>
+			<description>A system's big picture still needs an human owner.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">8e4fbd55-fa05-499a-8181-2009a19af999</guid>
+			<title>Algebraic Effects for the Rest of Us</title>
+			<link>https://overreacted.io/algebraic-effects-for-the-rest-of-us/</link>
+			<description>Algebraic effects explained on the basis of a hypothetical JavaScript dialect.</description>
 		</item>
 	</channel>
 </rss>
