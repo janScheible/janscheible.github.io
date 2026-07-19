@@ -448,5 +448,35 @@
 			<link>https://overreacted.io/algebraic-effects-for-the-rest-of-us/</link>
 			<description>Algebraic effects explained on the basis of a hypothetical JavaScript dialect.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">a7121014-217a-457c-8d2e-73cd26717091</guid>
+			<title>Running 1000 tests in 1s</title>
+			<link>https://marvinh.dev/blog/running-1000-test-in-1s/</link>
+			<description>The test isolation vs. test speed trade-off.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">f98369cb-024b-4483-bbd8-49d59c596aa1</guid>
+			<title>Write code like a human will maintain it</title>
+			<link>https://unstack.io/write-code-like-a-human-will-maintain-it</link>
+			<description>LLMs are replicating good and bad patterns of the codebase.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">7b9194ac-0fed-43fa-ab67-80f62bfc33a6</guid>
+			<title>Software Has Changed</title>
+			<link>https://www.abeautifulsite.net/posts/software-has-changed</link>
+			<description>The coding speedup can also be used for refactorings.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">9559527c-9822-479f-9618-3ba4d78dbd46</guid>
+			<title>Job queues are deceptively tricky</title>
+			<link>https://typesanitizer.com/blog/job-queues.html</link>
+			<description>Real world example to illustrate the potential pitfalls of job queues.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">ad1d55c9-2ecd-46d4-8c05-2e758391e98f</guid>
+			<title>Why AI hasn’t replaced software engineers, and won’t</title>
+			<link>https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers</link>
+			<description>Insights based on numbers and scientific research.</description>
+		</item>
 	</channel>
 </rss>
