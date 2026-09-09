@@ -512,7 +512,7 @@
 			<guid isPermaLink="false">99786e5e-b7a7-4352-abb4-0372a2871581</guid>
 			<title>I put GitHub Copilot Behind a MITM Proxy. Here's What I found.</title>
 			<link>https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm</link>
-			<description>In-depth analysis of Copilot http requests.</description>
+			<description>In-depth analysis of Copilot HTTP requests.</description>
 		</item>
 		<item>
 			<guid isPermaLink="false">78448cec-0991-4d9f-9edd-f9ae8243c622</guid>
@@ -530,7 +530,7 @@
 			<guid isPermaLink="false">fb6c7d4a-a23a-4d53-9479-b85d33a9e814</guid>
 			<title>Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely</title>
 			<link>https://www.infoq.com/articles/system-comprehension-evolutionary-architecture/</link>
-			<description>Comprehension is still required, even through AI risks to reduce system comprehension by requiring less implementation effort.</description>
+			<description>Comprehension is still required, even though AI risks to reduce system comprehension by requiring less implementation effort.</description>
 		</item>
 		<item>
 			<guid isPermaLink="false">9895d736-8894-4347-804e-0b3a2fec342c</guid>
