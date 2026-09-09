@@ -478,5 +478,77 @@
 			<link>https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers</link>
 			<description>Insights based on numbers and scientific research.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">a2930a0e-5821-4cb4-9e67-6b56ddd9bcc6</guid>
+			<title>"What’s In It For Me" Architecture</title>
+			<link>https://frederickvanbrabant.com/blog/2026-04-04-whats-in-it-for-me-architecture/</link>
+			<description>A good technical solution is only half the battle.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">8e2cdac8-94e9-4154-aeea-8341f61cbd24</guid>
+			<title>The Wheels We Keep Reinventing</title>
+			<link>https://blainsmith.com/articles/reinventing-the-wheel/</link>
+			<description>The fine line between reinventing and dragging in tons of dependencies and operational effort.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">11ecbca7-2dfd-4822-a57a-493c75b12db3</guid>
+			<title>LLMs reward expertise</title>
+			<link>https://www.seangoedecke.com/llms-reward-expertise/</link>
+			<description>Guiding LLMs yields better results.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">d05e4838-bf6d-4e3a-9a10-92d68ca4b872</guid>
+			<title>The valley of webhooks</title>
+			<link>https://weli.dev/blog/the-valley-of-webhooks/</link>
+			<description>System synchronization needs events instead of just webhooks.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">4dfc7ddd-9340-4a5b-a00d-fc550a66f074</guid>
+			<title>How Compaction Works in Pi</title>
+			<link>https://earendil.com/posts/compaction-in-pi/</link>
+			<description>High-level description of context compaction for a coding agent.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">99786e5e-b7a7-4352-abb4-0372a2871581</guid>
+			<title>I put GitHub Copilot Behind a MITM Proxy. Here's What I found.</title>
+			<link>https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm</link>
+			<description>In-depth analysis of Copilot http requests.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">78448cec-0991-4d9f-9edd-f9ae8243c622</guid>
+			<title>Let's not call it "tech debt," it's just "mess"</title>
+			<link>https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/</link>
+			<description>Every metaphor looses its accuracy beyond certain limits.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">8ef17e92-fc8b-437c-994d-4ce608f651ab</guid>
+			<title>Why I still hand write my commit messages</title>
+			<link>https://www.jvt.me/posts/2026/08/17/hand-write-commits/</link>
+			<description>About the power of stating why instead of what.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">fb6c7d4a-a23a-4d53-9479-b85d33a9e814</guid>
+			<title>Comprehension as an Architectural Characteristic: A System That Is Not Understood Cannot Evolve Safely</title>
+			<link>https://www.infoq.com/articles/system-comprehension-evolutionary-architecture/</link>
+			<description>Comprehension is still required, even through AI risks to reduce system comprehension by requiring less implementation effort.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">9895d736-8894-4347-804e-0b3a2fec342c</guid>
+			<title>AI Agents and the Refactoring That Never Happens</title>
+			<link>https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/</link>
+			<description>Limit of human understanding as indicator for required refactorings.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">19e540c5-4337-4fb9-9878-b743997524dc</guid>
+			<title>The Browser's Main Thread Is Expensive</title>
+			<link>https://kciter.so/posts/the-expensive-main-thread/en/</link>
+			<description>Whilst the browser provides sophisticated abstractions there is still quite a bit of knowledge needed to achieve a really responsive frontend.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">90b98a57-fc50-4159-813f-53bc7e4623d4</guid>
+			<title>Locality of Behaviour</title>
+			<link>https://buttondown.com/carlton/archive/locality-of-behaviour/</link>
+			<description>The eternal struggle between locality of behavior one the one side and good practices like separation of concerns and abstraction on the other side.</description>
+		</item>
 	</channel>
 </rss>
