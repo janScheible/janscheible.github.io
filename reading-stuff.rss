@@ -550,5 +550,17 @@
 			<link>https://buttondown.com/carlton/archive/locality-of-behaviour/</link>
 			<description>The eternal struggle between locality of behavior one the one side and good practices like separation of concerns and abstraction on the other side.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">6baf254a-cb37-4c1e-ab24-bdc4b6d2d2d9</guid>
+			<title>The Brain Sandwich</title>
+			<link>https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</link>
+			<description>How to keep thinking whilst using LLMs.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">a5aad4f0-46b2-45e1-bd76-d681643de7a9</guid>
+			<title>Measuring the Sloppiness of Code</title>
+			<link>https://earendil.com/posts/measuring-code-sloppiness/</link>
+			<description>If only it were that easy to measure code quality.</description>
+		</item>
 	</channel>
 </rss>
