@@ -562,5 +562,77 @@
 			<link>https://earendil.com/posts/measuring-code-sloppiness/</link>
 			<description>If only it were that easy to measure code quality.</description>
 		</item>
+		<item>
+			<guid isPermaLink="false">243a21a3-3be4-43f5-afba-31767426d349</guid>
+			<title>What requirements don't you have?</title>
+			<link>https://www.seangoedecke.com/what-requirements-dont-you-have/</link>
+			<description>You can't have your cake and eat it too.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">07abbade-d5b3-4843-994d-82be6e16e4c3</guid>
+			<title>Software is slow because of bad design, not slow languages</title>
+			<link>https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
+			<description>In most cases LLM rewrites to speed up software might not be the right solution.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">a4323954-2b30-4ad8-a257-014b011e712e</guid>
+			<title>Unit tests are not the enemy</title>
+			<link>https://www.wecodefire.com/p/unit-tests-are-not-the-enemy</link>
+			<description>It might be a bit of an overreaction to delete the unit tests right away.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">dc6e9c76-6ede-4560-8261-e7bce282ecf0</guid>
+			<title>The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages</title>
+			<link>https://emptysqua.re/blog/polyglots-dilemma/</link>
+			<description>In special cases a dedicated test language is worth the invest.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">030dd45f-e813-4d00-9597-aaa54e889b35</guid>
+			<title>The State of Context Engineering</title>
+			<link>https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</link>
+			<description>Your harness is helping you a lot to provide the right context.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">e84562ea-5075-4dcf-82fa-2274741a0562</guid>
+			<title>Why are good developers so wary of agentic development?</title>
+			<link>https://martinfowler.com/rachels-ramblings/good-devs-wary.html</link>
+			<description>Writing software with generative Ai is simply a pretty new thing.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">28850a6a-56c1-4ec6-b398-948edf14c784</guid>
+			<title>One reviewer per layer: splitting code review by the way code is read</title>
+			<link>https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/</link>
+			<description>Decomposing code reviews.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">de7ec68d-3f78-4c84-922e-fe9fffdf9203</guid>
+			<title>All you need is Wide Events, not “Metrics, Logs and Traces”</title>
+			<link>https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</link>
+			<description>Dealing with unknown unknowns by collecting wide events.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">d7b9bf6c-6b41-4982-ae5e-cbe26eaec927</guid>
+			<title>How hard is it to check for whitespace?</title>
+			<link>https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace</link>
+			<description>Nice example of using a perfect hash function.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">63c727b4-a954-48d9-81cb-e430bbbbbef8</guid>
+			<title>The Kluever Maneuver</title>
+			<link>https://jordi.inversethought.com/blog/the-kluever-maneuver/</link>
+			<description>Make sure that your bug fix really catches the bug.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">ea655431-8560-4d51-b098-755af681e5c7</guid>
+			<title>Writing as a thinking tool</title>
+			<link>https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</link>
+			<description>Writing is perhaps more important than ever.</description>
+		</item>
+		<item>
+			<guid isPermaLink="false">13830ee5-c98b-4bcf-9adf-2292fd0c5770</guid>
+			<title>Bad ideas that aren't bad anymore</title>
+			<link>https://devonestes.com/bad-ideas-that-arent-bad-anymore</link>
+			<description>Times are changing, let's adapt!</description>
+		</item>
 	</channel>
 </rss>
